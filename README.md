@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Patient Side Application for Hospital Management</title>
-   </head>
 <body>
   <h1>Patient Side Application for Hospital Management</h1>
 
