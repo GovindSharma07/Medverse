@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medverse Project - README</title>
 </head>
 <body>
     <h1>Medverse</h1>
@@ -12,7 +11,6 @@
         This document provides the steps to set up and run the project.
     </p>
     <hr>
-
     <h2>How to Run the Medverse Project</h2>
     <ol>
         <li><strong>Download the Zip File</strong>
@@ -54,7 +52,6 @@
         </li>
     </ol>
     <hr>
-
     <h2>Project Overview</h2>
     <h3>Features</h3>
     <ul>
@@ -63,14 +60,12 @@
         <li>Generate bills and reports for hospital operations.</li>
     </ul>
     <hr>
-
     <h3>Technologies Used</h3>
     <ul>
         <li><strong>Frontend</strong>: HTML, CSS, JavaScript</li>
         <li><strong>Backend</strong>: PHP</li>
         <li><strong>Database</strong>: MySQL</li>
     </ul>
-
     <p>Feel free to contribute, report issues, or suggest improvements! 🎉</p>
 </body>
 </html>
